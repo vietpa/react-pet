@@ -1,0 +1,89 @@
+$base-font-size: 16;
+
+@mixin font-size($size) {
+  font-size: ($size / $base-font-size) + rem;
+}
+
+.fsc-1 {
+  @include font-size(48);
+}
+
+.fsc-2 {
+  @include font-size(40);
+}
+
+.fsc-3 {
+  @include font-size(32);
+}
+
+.fsc-4 {
+  @include font-size(24);
+}
+
+.fsc-4-5 {
+  @include font-size(18);
+}
+
+.fsc-5 {
+  @include font-size(15);
+}
+
+.fsc-6 {
+  @include font-size(8);
+}
+
+.fsl,
+.subpage-title {
+  @include font-size(64);
+}
+
+.fsxl {
+  @include font-size(128);
+}
+
+@mixin on-circle($item-count, $circle-size, $item-width, $item-height) {
+  position: relative;
+  width: $circle-size;
+  height: $circle-size;
+  padding: 0;
+  border-radius: 50%;
+  list-style: none;
+
+  > * {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -($item-width / 2);
+    margin-top: -($item-height / 2);
+
+    $angle: (360 / $item-count);
+    $rot: 0;
+
+    @for $i from 1 through $item-count {
+      &:nth-of-type(#{$i}) {
+        transform: rotate($rot * 1deg)
+          translate($circle-size / 2)
+          rotate($rot * -1deg);
+      }
+
+      $rot: $rot + $angle;
+    }
+  }
+}
+
+.circle-container {
+  @include on-circle($item-count: 8, $circle-size: 40em, $item-width: 201px, $item-height: 57.61px); 
+  margin: 0 auto;
+  
+  a { 
+    display: block; 
+    max-width: 100%; 
+    filter: grayscale(100%);
+    transition: .15s;    
+    &:hover,
+    &:active {
+      filter: grayscale(0);
+    }
+  }
+}

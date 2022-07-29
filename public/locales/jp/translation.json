@@ -1,0 +1,140 @@
+{
+  "COMMON": {},
+  "NAVIGATION": {
+    "HOME": "ホームページ",
+    "ABOUT": "ページについて",
+    "CONTACT": "コンタクト",
+    "SERVICES":"サービス",
+    "MORE":"もっと"
+  },
+  "HOME": {
+    "CONTENT": [
+      [
+        "人々に自由を与える",
+        [
+          "私たちの目標は「GivePeopleFreedom」であり、世界にはまだ存在しない革新的なサービスを生み出すことを使命としています。",
+          "私たちはすでに始めており、人々に彼らの金融資産を成長させるための様々な機会を提供し続けます。 最終的には、私たちと提携した後、彼らが彼らの資産を効果的かつ成功裏に独立して管理することを望んでいます。",
+          "私たちは、人々がより多くの経済的自由を共同で得るのを助けることに貢献できれば、世界を可能な限り変えることができると信じています。"
+        ],
+        "boat.png"
+      ],
+      [
+        "ヴィジョン",
+        [
+          "痛み自体は愛、主なストレージシステムです。 時々歩行者のレーダーで笑うまで。 ただ震えるために、その直径のあごは、経済的に恥ずべきことです。 ですから、自由人の人生はフェリーの健康だけで愛されることです。 しかし、地球は素晴らしかった。 簡単な週末に笑いは悲しいです。 しかし、裏庭ではソースが横切って行きます。 それは純粋な犯罪であり、無料のヘルスケアです。",
+          "Vestibulum feugiat augueは、imperdietviverraに座っています。 妊婦の時の矢まで。 scelerisquegravidaのAeneanconsecteturex。 拷問者に対する復讐に満ちた恐れはないので、平均的な人の欲求は複雑である必要があります。 今、ファンの局はチョコレートの愛であり、オリンピックを選ぶための門でもないはずです 従業員が勝者になるまで しかし、賢明な実現可能性の人生の壷は、偉大な人の結果です ヒントを取る時が来ました。 Morbi elit ante、velit tinciduntのfringilla、aliquamimperdietjusto。 いくつかの用途の広いスーパーヒーローのために。 湖のそれぞれの痛み、エロスの請求書、マイクを飾るための髪型。 Curabitur auctor id loremsagittisdictum。"
+        ],
+        "core.png"
+      ],
+      [
+        "ミッション",
+        [
+          "痛み自体は愛、主なストレージシステムです。 時々歩行者のレーダーで笑うまで。",
+          "Vestibulum feugiat augueは、imperdietviverraに座っています。 妊婦の時の矢まで。 scelerisquegravidaのAeneanconsecteturex。 拷問者に対する復讐に満ちた恐れはないので、平均的な人の欲求は複雑である必要があります。",
+          "今、ファンの局はチョコレートの愛であり、オリンピックを選ぶための門でもないはずです 従業員が勝者になるまで しかし、賢明な実現可能性の人生の壷は、偉大な人の結果です ヒントを取る時が来ました。",
+          "Morbi elit ante、velit tinciduntのfringilla、aliquamimperdietjusto。 いくつかの用途の広いスーパーヒーローのために。 湖のそれぞれの痛み、エロスの請求書、マイクを飾るための髪型。 Curabitur auctor id loremsagittisdictum。"
+        ],
+        "smart_city.png"
+      ]
+    ]
+  },
+  "ABOUT": {
+    "TITLE": "私たちは何ですか",
+    "MEETUS": [
+      [
+        "会いましょう",
+        [
+          "私たちはクライアントに収益性をもたらすためにストライキを行います。 私たちは、クライアントの投資に適したソリューションを見つけるためのクライアントのニーズを理解しています。",
+          "そのため、TJ TECHは、お客様のご要望にお応えするために、最高の技術を学び、開発することで前進しています。"
+        ],
+        "meetus1.png"
+      ]
+    ],
+    "AWH": [
+      "awh.png",
+      "ABOUT WORKING HERE",
+      [
+        [
+          "awh1.png",
+          "ビッグオフィス",
+          [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum risus at ligula vehicula egestas. In ut justo pharetra, faucibus diam id, aliquet turpis."
+          ]
+        ],
+        [
+          "awh2.png",
+          "チームスピリット",
+          [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum risus at ligula vehicula egestas. In ut justo pharetra, faucibus diam id, aliquet turpis."
+          ]
+        ],
+        [
+          "awh3.png",
+          "教育の機会",
+          [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum risus at ligula vehicula egestas. In ut justo pharetra, faucibus diam id, aliquet turpis."
+          ]
+        ],
+        [
+          "awh4.png",
+          "飲み物と食べ物",
+          [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum risus at ligula vehicula egestas. In ut justo pharetra, faucibus diam id, aliquet turpis."
+          ]
+        ]
+      ]
+    ],
+    "COTJ": "TJTECHの文化",
+    "COTJ_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum risus at ligula vehicula egestas.\nIn ut justo pharetra, faucibus diam id, aliquet turpis.",
+    "CONTACT_US": "CONTACT US",
+    "CONTACT_FORM": [
+      "Business contacts",
+      "Name",
+      "Email",
+      "Your message",
+      "SEND"
+    ]
+  },
+  "CONTACT": {
+    "TITLE": "お問い合わせ",
+    "QUICK_SUPPORT": "クイックサポート",
+    "QUICK_SUPPORT_DESCRIPTION": "あなたはすべての連絡先情報を得ることができます",
+    "QUICK_SUPPORT_LIST":[
+      [
+        "ic_visit.png",
+        "私たちをご覧ください",
+        "11th Floor, Capital Place Building, 29 Lieu Giai Street, Ngoc Khanh Ward, Ba Dinh District, Hanoi, Vietnam."
+      ],
+      [
+        "ic_call.png",
+        "お電話ください",
+        "+ 84 1234 5678"
+      ],
+      [
+        "ic_email.png",
+        "私達に電子メールを送り",
+        "admin@tjtech.tech"
+      ],
+      [
+        "ic_follow.png",
+        "従う",
+        "+ 84 1234 5678"
+      ]
+    ],
+    "GET_IN_TOUCH": "連絡する",
+    "CONTACT_FORM": [
+      "メッセージを残してください",
+      "名前",
+      "Eメール",
+      "あなたのメッセージ",
+      "メッセージを送信"
+    ],
+    "NEWSLETTER": "ニュースレターに参加する",
+    "NEWSLETTER_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum risus at ligula vehicula egestas. In ut justo pharetra, faucibus diam id, aliquet turpis.",
+    "NEWSLETTER_FORM": [
+      "名前",
+      "Eメール",
+      "申し込む"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "COMMON": {
+    "LOGOUT": "Logout"
+  },
+  "NAVIGATIONS": {
+    "HOME": "Home"
+  },
+  "HOME": {
+    "EXCHANGE_ID": "Exchange ID",
+    "EXCHANGE_NAME": "Exchange Name",
+    "WEBSITE": "Website",
+    "ASSET": "Asset",
+    "OPEN_TIME": "Open Time",
+    "CLOSE_TIME": "Close Time",
+    "OPEN_PRICE": "Open Price",
+    "CLOSE_PRICE": "Close Price",
+    "BID": "Bid",
+    "ASK": "Ask",
+    "VOLUME": "Volume"
+  }
+}

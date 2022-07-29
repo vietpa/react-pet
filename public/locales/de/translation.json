@@ -1,0 +1,21 @@
+{
+  "COMMON": {
+    "LOGOUT": "Ausloggen"
+  },
+  "NAVIGATIONS": {
+    "HOME": "Heimat"
+  },
+  "HOME": {
+    "EXCHANGE_ID": "Austausch-ID",
+    "EXCHANGE_NAME": "Namen austauschen",
+    "WEBSITE": "Webseite",
+    "ASSET": "Anlage",
+    "OPEN_TIME": "Fffene Zeit",
+    "CLOSE_TIME": "Schließzeit",
+    "OPEN_PRICE": "Offener Preis",
+    "CLOSE_PRICE": "Schlusskurs",
+    "BID": "Gebot",
+    "ASK": "Fragen",
+    "VOLUME": "Volumen"
+  }
+}
